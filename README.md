@@ -4,4 +4,4 @@
 
 3. Vector Database ##inmemory ##ondisk ##cloudbased
 
-#
+4. AWS Secret manager - Keep secrets (token, apikey, password)   
