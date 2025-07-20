@@ -1,3 +1,6 @@
 pandas
 numpy
 scikit-learn
+langchain
+ipykernel
+langchain_groq
